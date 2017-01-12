@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'NeutraTextTF-Book';
+  src: url('../fonts/NeutraTextTF-Book/NeutraTextTF-Book.eot');
+  src: url('../fonts/NeutraTextTF-Book/NeutraTextTF-Book.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/NeutraTextTF-Book/NeutraTextTF-Book.woff2') format('woff2'),
+       url('../fonts/NeutraTextTF-Book/NeutraTextTF-Book.woff') format('woff'),
+       url('../fonts/NeutraTextTF-Book/NeutraTextTF-Book.ttf') format('truetype'),
+       url('../fonts/NeutraTextTF-Book/NeutraTextTF-Book.svg#NeutraTextTF-Book') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'NeutraText-DemiItalicAlt';
+  src: url('../fonts/NeutraText-DemiItalicAlt/NeutraText-DemiItalicAlt.eot');
+  src: url('../fonts/NeutraText-DemiItalicAlt/NeutraText-DemiItalicAlt.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/NeutraText-DemiItalicAlt/NeutraText-DemiItalicAlt.woff2') format('woff2'),
+       url('../fonts/NeutraText-DemiItalicAlt/NeutraText-DemiItalicAlt.woff') format('woff'),
+       url('../fonts/NeutraText-DemiItalicAlt/NeutraText-DemiItalicAlt.ttf') format('truetype'),
+       url('../fonts/NeutraText-DemiItalicAlt/NeutraText-DemiItalicAlt.svg#NeutraText-DemiItalicAlt') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ProximaNova-Semibold';
+  src: url('../fonts/ProximaNova-Semibold/ProximaNova-Semibold.eot');
+  src: url('../fonts/ProximaNova-Semibold/ProximaNova-Semibold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/ProximaNova-Semibold/ProximaNova-Semibold.woff2') format('woff2'),
+       url('../fonts/ProximaNova-Semibold/ProximaNova-Semibold.woff') format('woff'),
+       url('../fonts/ProximaNova-Semibold/ProximaNova-Semibold.ttf') format('truetype'),
+       url('../fonts/ProximaNova-Semibold/ProximaNova-Semibold.svg#ProximaNova-Semibold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
